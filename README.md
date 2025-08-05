@@ -64,11 +64,20 @@ A vanilla JavaScript app that provides users with quiz questions across multiple
 
 ---
 
-### 🧾 CRUDs JS – Save & Manage Links
+### 🧾 Bookmarker – Save & Manage Links
 A simple JavaScript app for saving website URLs. Add, edit, or delete links and store them in the browser using LocalStorage.
 
 🔗 [Live Demo](https://ahmedyasser166.github.io/CRUDS-JS/)  
 📦 [GitHub Repo](https://github.com/ahmedYasser166/CRUDS-JS)
+
+---
+
+## 📞 Contact Me
+
+<p align="left">
+  📧 Email: <a href="mailto:ahmedalhariri.dev@gmail.com">ahmedalhariri.dev@gmail.com</a><br>
+  📱 Phone: <a href="tel:+201020269254">+20 102 026 9254</a>
+</p>
 
 ---
 
